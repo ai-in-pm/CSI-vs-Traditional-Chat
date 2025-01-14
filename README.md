@@ -1,6 +1,8 @@
 # Conversational Swarm Intelligence (CSI) Platform
 
 A platform that simulates Conversational Swarm Intelligence using AI agents for collaborative brainstorming.
+![image](https://github.com/user-attachments/assets/55f97904-2924-42f6-8daa-b0871122d117)
+
 
 ## Features
 
